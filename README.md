@@ -22,3 +22,8 @@ Coding Endless Sky game code can become very confusing quickly because of the wh
 - Essentially, if it does not recolor, it is not a valid operation. There are still some exceptions to this because of how N++ handles UDLs, and I just haven't gotten to them
 
 Note: This will effect all .txt documents handled by Notepad++.
+
+## Gallery
+<img width="1029" height="485" alt="Screenshot of Human Job" src="https://github.com/user-attachments/assets/2ed92336-90b6-4096-9085-e8537f958a03" />
+<img width="1011" height="290" alt="Screenshot of Remnant On Complete tag" src="https://github.com/user-attachments/assets/55018a87-f833-44e4-bde4-e9266a7eb2c4" />
+<img width="945" height="472" alt="Screenshot of Remnant Job" src="https://github.com/user-attachments/assets/67b14a02-b696-4e0b-86db-301e7e01753f" />
