@@ -42,3 +42,6 @@ Phrases
 Outfits
 <img width="1015" height="244" alt="Screenshot 2026-10-12 114756" src="https://github.com/user-attachments/assets/77812c94-2fc3-45fd-8724-0ac514b1662f" />
 
+## Future Development
+-Autocompletion lists for common keywords (see keywords folder for classification of types)
+-Support for non-wiki items like series, formations, and others
