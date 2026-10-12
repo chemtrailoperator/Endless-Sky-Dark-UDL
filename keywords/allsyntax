@@ -1,0 +1,1099 @@
+interface
+mission
+planet
+system
+government
+phrase
+conversation
+ship
+fleet
+outfit
+event
+shipyard
+outfitter
+galaxy
+news
+substitutions
+person
+series
+hazard
+minable
+news
+swizzle
+start
+message
+message category
+gamerule
+
+name
+about
+version
+authors;
+tags;
+dependencies;
+game version
+requires;
+optional;
+conflicts;
+description
+color
+color unavailable
+color unselected
+color selected
+blocked
+cargo;
+cargo random;
+passengers
+illegal
+stealth
+invisible
+priority'
+minor'
+non-blocking'
+job'
+landing'
+assisting'
+boarding'
+shipyard'
+outfitter'
+accept'
+launch'
+decline'
+flee'
+defer'
+depart'
+die'
+explode'
+job board'
+entering'
+transition'
+pacifist'
+forbearing'
+timid'
+heroic'
+hunting'
+daring'
+nemesis'
+frugal'
+disables'
+plunders'
+vindictive'
+unconstrained'
+coward'
+appeasing'
+opportunistic'
+merciful'
+ramming'
+surveillance'
+mining'
+harvests'
+swarming'
+secretive'
+unrestricted'
+getaway'
+staying'
+lingering'
+entering'
+waiting'
+launching'
+fleeing'
+derelict'
+uninterested'
+restricted'
+escort'
+target'
+tracked'
+marked'
+mute'
+quiet'
+autosave
+boarding;
+override capture
+repeat
+clearance
+ignore clearance
+infiltrating
+waypoint
+mark
+stopover
+substitutions;
+offer precedence
+to offer;
+to complete;
+to fail;
+to accept;
+has-
+not-
+never
+and-
+or-
+source;
+destination;
+complete at;
+not planet;
+neighbor planet;
+not system;
+neighbor system;
+not government;
+neighbor government;
+not outfits;
+neighbor outfits;
+outfits;
+not attributes;
+neighbor attributes;
+neighbor;
+not;
+distance calculation settings;
+all wormholes
+only unrestricted wormholes
+no wormholes
+assumes jump drive
+npc;
+npc save;
+npc kill;
+npc board;
+npc assist;
+npc disable;
+scan cargo;
+scan outfits;
+npc evade;
+npc accompany;
+npc accompany save;
+npc capture;
+npc provoke;
+to spawn;
+to despawn;
+on kill;
+on board;
+on assist;
+on disable;
+on;
+on capture;
+on provoke;
+on destroy;
+on encounter;
+cargo settings;
+personality;
+near
+distance
+dialog;
+dialog phrase;
+to display;
+timer;
+pause when inactive
+optional
+activation requirements;
+peaceful
+cloaked
+uncloaked
+solo
+idle
+on deactivation;
+on timeup;
+on offer;
+on complete;
+on accept;
+on decline;
+on defer;
+on fail;
+on abort;
+on visit;
+on stopover;
+on waypoint;
+on enter;
+on land;
+on daily;
+on disabled;
+log
+mark;
+scene
+circle;
+remove log
+require
+give ship;
+take ship;
+count
+id
+unconstrained
+with outfits
+requires outfits
+payment
+fine
+debt;
+interest
+term
+set
+clear
+fail
+music
+mute
+unmark
+message;
+scene
+label
+goto
+choice;
+to activate;
+branch;
+action;
+date
+save raw changes
+visit
+unvisit
+visit planet
+unvisit planet
+link
+unlink
+substitutions
+display name
+plural
+variant map name
+noun
+sprite;
+thumbnail
+attributes;
+description
+outfits;
+engine;
+reverse engine;
+steering engine;
+zoom
+angle
+gimbal
+over
+left
+right
+gun;
+parallel
+inside
+turret;
+under
+arc
+blindspot
+turret turn multiplier
+bay;
+back
+launch effect
+explode
+final explode
+leak;
+active
+disabled
+exploding
+always on
+live spark;
+period
+start delay
+live effect;
+position
+static decor;
+static
+rotating
+moving
+targeting
+synced
+synced effects
+never disabled
+uncaptureable
+administrative cost
+swizzle
+category
+license
+cost
+shields
+hull
+required crew
+automaton
+bunks
+drag
+mass
+heat dissipation
+fuel capacity
+cargo space
+outfit space
+weapon capacity
+engine capacity
+gaslining
+weapon;
+blast radius
+shield damage
+hull damage
+hit force
+add attributes;
+remove bays
+never dies
+must destroy all
+frequency
+government
+personality;
+confusion
+near
+word
+flotsam sprite
+flotsam chance
+flare sprite
+reverse flare sprite
+steering flare sprite
+flare sound
+reverse flare sound
+steering flare sound
+afterburner effect
+thumbnail
+jump effect
+jump sound
+jump in sound
+jump out sound
+hyperdrive sound
+hyperdrive in sound
+hyperdrive out sound
+silent jumps
+index
+atrocity
+illegal
+shield generation
+shield energy
+shield heat
+shield fuel
+shield delay
+depleted shield delay
+delayed shield generation
+delayed shield energy
+delayed shield heat
+delayed shield fuel
+high shield permeability
+low shield permeability
+cloaked shield permeability
+hull repair rate
+hull heat
+hull fuel
+repair delay
+disabled repair delay
+delayed hull repair rate
+delayed hull energy
+delayed hull heat
+delayed hull fuel
+absolute threshold
+threshold percentage
+hull threshold
+disabled recovery time
+disabled recovery energy
+disabled recovery fuel
+disabled recovery heat
+disabled recovery ionization
+disabled recovery scrambling
+disabled recovery disruption
+disabled recovery slowing
+disabled recovery discharge
+disabled recovery corrosion
+disabled recovery leak
+disabled recovery burning
+shield generation multiplier
+shield energy multiplier
+shield heat multiplier
+shield fuel multiplier
+shield multiplier
+hull repair multiplier
+hull energy multiplier
+hull heat multiplier
+hull fuel multiplier
+hull multiplier
+cloaked regen multipier
+cloaked repair multiplier
+energy capcity
+energy generation
+energy consumption
+heat generation
+ramscoop
+solar collection
+solar heat
+fuel capacity
+fuel consumption
+fuel energy
+fuel heat
+fuel generation
+thrust
+thrusting energy
+thrusting heat
+thrusting shields
+thrusting hull
+thrusting fuel
+thrusting discharge
+thrusting corrosion
+thrusting ion
+thrusting scramble
+thrusting burn
+thrusting disruption
+turn
+turning energy
+turning heat
+turning shields
+turning hull
+turning fuel
+turning discharge
+turning corrosion
+turning ion
+turning scramble
+turning leakage
+turning burn
+turning slowing
+turning disruption
+reverse thrust
+reverse thrusting energy
+reverse thrusting heat
+reverse thrusting shields
+reverse thrusting hull
+reverse thrusting fuel
+reverse thrusting discharge
+reverse thrusting corrosion
+reverse thrusting ion
+reverse thrusting scramble
+reverse thrusting leakage
+reverse thrusting burn
+reverse thrusting slowing
+reverse thrusting disruption
+afterburner thrust
+afterburner energy
+afterburner heat
+afterburner shields
+afterburner hull
+afterburner discharge
+afterburner corrosion
+afterburner ion
+afterburner scramble
+afterburner leakage
+afterburner burn
+afterburner slowing
+afterburner disruption
+acceleration multiplier
+turn multiplier
+cooling
+active cooling
+cooling energy
+heat dissipation
+heat capacity
+overheat damage rate
+overheat damage threshold
+cooling inefficiency
+atmosphere scan
+cargo scan power
+cargo scan efficiency
+cargo scan sound
+cargo scan opacity
+outfit scan power
+outfit scan efficiency
+outfit scan sound
+outfit scan opacity
+silent scans
+scan interference
+scan brightness
+scan concealment
+inscrutable
+asteroid scan power
+tactical scan power
+capture attack
+capture defense
+unplunderable
+hyperdrivve
+scram drive
+jump drive
+jump speed
+jump fuel
+hyperdrive fuel
+jump drive fuel
+jump mass cost
+jump base mass
+jump range
+mandatory crew
+crew equivalent
+use crew equivalent as crew
+gun ports
+turret mounts
+cloak
+cloak by mass
+cloak hull threshold
+cloaking energy
+cloaking fuel
+cloaking heat
+cloak shield protection
+cloaking shield delay
+cloaking repair delay
+cloak phasing
+cloaked communication
+cloaked afterburner
+cloaked boarding
+cloaked deployment
+cloaked firing
+cloaked pickup
+cloaked scanning
+disruption resistance
+disruption resistance energy
+disruption resistance heat
+disruption resistance fuel
+ion resistance
+ion resistance energy
+ion resistance heat
+ion resistance fuel
+scramble resistance
+scramble resistance energy
+scramble resistance heat
+scramble resistance fuel
+slowing resistance energy
+slowing resistance heat
+slowing resistance fuel
+slowing resistance
+discharge resistance energy
+discharge resistance heat
+discharge resistance fuel
+discharge resistance
+corrosion resistance energy
+corrosion resistance heat
+corrosion resistance fuel
+corrosion resistance
+leak resistance energy
+leak resistance heat
+leak resistance fuel
+leak resistance
+burn resistance energy
+burn resistance heat
+burn resistance fuel
+burn resistance
+piercing resistance
+disruption protection
+energy protection
+force protection
+fuel protection
+heat protection
+hull protection
+ion protection
+scramble protection
+piercing protection
+shield protection
+slowing protection
+discharge protection
+leak protection
+burn protection
+maintenance costs
+operating costs
+income
+operating income
+ammo
+linked
+drag
+drag reduction
+inertia reduction
+installable
+can jettison
+minable
+map
+map minables
+radar jamming
+optical jamming
+optical size
+self destruct
+landing speed
+unique
+turret turn multiplier
+sprite;
+frame rate
+frame time
+delay
+start frame
+random start frame
+no repeat
+rewind
+hardpoint sprite;
+inherits parent swizzle
+hardpoint offset
+sound
+empty sound
+icon
+fire effect
+live effect
+hit effect
+target effect
+die effect
+submunition
+facing
+offset
+spawn on natural
+spawn on anti-missile
+spawn on explosion
+spawn on collision
+exclude submunition damage
+stream
+cluster
+safe
+phasing
+no damage scaling
+gravitational
+parallel
+fused
+no ship collisions
+no asteroid collisions
+no minable collisions
+lifetime
+random lifetime
+fade out
+velocity
+random velocity
+acceleration
+drag
+turn
+inaccuracy;
+triangular
+uniform
+narrow
+medium
+wide
+inverted
+turret turn
+arc
+range override
+velocity override
+safe range override
+firing energy
+firing force
+firing fuel
+firing heat
+firing hul
+firing shields
+firing ion
+firing scramble
+firing slowing
+firing disruption
+firing discharge
+firing corrosion
+firing leak
+firing burn
+relative firing energy
+relative firing fuel
+relative firing heat
+relative firing hull
+relative firing shields
+reload
+burst count
+burst reload
+homing;
+leading
+blindspot
+throttle control
+infrared tracking
+optical tracking
+radar tracking
+tracking
+missile strength
+anti-missile
+tractor beam
+split range
+trigger radius
+blast radius
+hit force
+piercing
+penetration count
+damage dropoff
+dropoff modifier
+shield damage
+hull damage
+minable damage
+disabled damage
+prospecting
+heat damage
+fuel damage
+energy damage
+relative shield damage
+relative hull damage
+relative minable damage
+relative heat damage
+relative fuel damage
+relative energy damage
+ion damage
+scrambling damage
+disruption damage
+slowing damage
+discharge damage
+leak damage
+corrosion damage
+burn damage
+triggers nuke alert
+to sell;
+location;
+stock;
+remove
+zooms
+sound category
+lifetime
+random angle
+random spin
+random frame rate
+absolute velocity
+absolute angle
+random velocity
+lifetime
+random lifetime
+pos
+inaccessible
+hidden
+shrouded
+music
+arrival;
+departure;
+link
+jump
+habitable
+belt
+ramscoop;
+universal
+addend
+multiplier
+invisible fence
+jump range
+haze
+link
+asteroids
+minables
+trade
+raid
+hazard;
+starfield density
+object;
+scale
+sprite;
+period
+offset
+distance
+visibility
+object
+landscape;
+music
+description
+spaceport
+to know;
+to land;
+to access outfitter;
+to access shipyard;
+port;
+recharges;
+services;
+to access;
+to bribe;
+to recharge;
+to service;
+news
+description
+required reputation
+bribe
+bribe threshold
+security
+tribute;
+threshold
+constant strength
+period
+duration
+strength
+range
+system-wide
+environmental effect
+payload;
+max drops
+drop rate
+toughness
+relative to system center
+portrait
+message
+location
+to show
+remove name
+remove to show
+remove location
+remove message
+color
+player reputation
+reputation;
+min
+max
+crew attack
+crew defense
+confusion;
+attitude toward;
+default attitude
+penalty for;
+assist
+disable
+board
+capture
+destroy
+atrocity
+scan
+provoke
+foreign penalties for;
+custom penalties for
+provoked on scan
+fine
+death sentence
+send untranslated hails
+friendly hail
+friendly disabled hail
+hostile hail
+hostile disabled hail
+ship bribe acceptance hail
+ship bribe rejection hail
+planet bribe acceptance hail
+planet bribe rejection hail
+tribute hails;
+already paying
+undefined
+unworthy
+fleet launching
+fleet undefeated
+surrendered
+language
+raid
+enforces all
+enforces;
+travel restrictions;
+illegals;
+ignore universal
+atrocities;
+fighters;
+names
+personality;
+cargo
+commodities
+outfitters
+cargo settings;
+variant;
+word;
+replace;
+remove description
+remove thumbnail
+add account;
+account;
+credits
+salaries
+maintenance
+score
+history;
+mortgage Mortgage;
+mortgage Fine;
+on display;
+on reveal;
+anchor
+active;
+visible;
+point;
+from
+align
+pad
+box;
+image;
+outline;
+center
+dimensions
+colored
+string;
+button;
+dynamic button;
+from
+width
+truncate
+wrapped label;
+wrapped string;
+wrapped button;
+wrapped dynamic button;
+alignment
+ring;
+bar;
+size
+reversed start angle
+span angle
+pointer
+from
+to
+orientation angle
+orientation vector
+fill;
+list;
+value
+main color
+log color
+main duplicates
+log duplicates
+important
+log only
+true
+false
+max confusion
+period
+focus multiplier
+gain focus time
+lose focus time
+
+<commodity>
+<tons>
+<cargo>
+<bunks>
+<passengers>
+<fare>
+<origin>
+<planet>
+<system>
+<destination>
+<stopovers>
+<planet stopovers>
+<waypoints>
+<marks>
+<payment>
+<fine>
+<date>
+<day>
+<npc>
+<npc model>
+<first>
+<last>
+<original first>
+<original last>
+<ship>
+<model>
+<flagship>
+<flagship model>
+<current planet>
+<current system>
+<previous planet>
+<previous system>
+<start planet>
+<start system>
+<start date>
+<start credits>
+<start credit score>
+<start debt>
+
+offered
+active
+done
+declined
+failed
+event:
+reputation:
+combat rating
+tribute:
+global:
+pilot:
+max escort count
+max escort crew
+admin cap
+passenger space
+cargo space free
+passenger space free
+cargo attractiveness
+armament deterrence
+pirate attraction
+ships:
+ships (all):
+total ships
+total ships (all):
+ship model:
+ship model (all):
+ship attribute:
+flagship attribute:
+ship base attribute:
+ship attribute (parked):
+flagship attribute (parked):
+ship base attribute (parked):
+ship attribute (all):
+flagship attribute (all):
+ship base attribute (all):
+outfit:
+outfit (all):
+outfit (installed):
+outfit (all installed):
+outfit (parked):
+outfit (flagship installed):
+outfit (cargo):
+outfit (all cargo):
+outfit (flagship cargo):
+outfit (storage):
+outfit (all storage):
+outfit (removable):
+flagship model:
+flagship: cargo space
+flagship: passenger space
+flagship: cargo space free
+flagship: passenger space free
+flagship crew
+flagship required crew
+flagship bunks
+flagship mass
+flagship shields
+flagship hull
+flagship fuel
+flagship bays free:
+flagship bays
+flagship bays:
+flagship bays free
+flagship disabled
+flagship attribute:
+visited planet:
+visited system:
+hyperjumps to planet:
+hyperjumps to system:
+entered system by: takeoff
+entered system by: hyperdrive
+entered system by: jump drive
+entered system by: wormhole
+raid chance in system:
+landing access:
+flagship landed
+flagship planet:
+flagship planet attribute:
+flagship planet government
+flagship system:
+flagship system attribute:
+flagship system government:
+previous system:
+previous system government:
+previous system attribute:
+previous planet:
+previous planet government:
+previous planet attribute:
+flagship strength
+player strength
+ally strength
+enemy strength
+government strength:
+ally strength:
+enemy strength:
+name:
+first name:
+last name:
+original name:
+original first name:
+original last name:
+net worth
+unpaid mortgages
+unpaid fines
+unpaid salaries
+unpaid maintenance
+credit score
+day
+month
+year
+weekday: sunday
+weekday: monday
+weekday: tuesday
+weekday: wednesday
+weekday: thursday
+weekday: friday
+weekday: saturday
+days since year stat
+days until year end
+days since epoch
+days since start
+random
+roll: 
+installed plugin:
+person destroyed:
+gamerule:
+enemy:
+scheduled event:
+
+
